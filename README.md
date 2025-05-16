@@ -34,3 +34,15 @@ By analyzing metrics like total
  ## Dataset
  https://github.com/aman0816/Blinkit-Dashboard/blob/main/DataSet%20BlinkIT%20Grocery.xlsx
 
+ ## Dashboard Image
+ https://github.com/aman0816/Blinkit-Dashboard/blob/main/Image_Blinkit.PNG
+
+              Conclusion
+ This analysis aims to provide valuable insights into
+ Blinkit's sales performance, customer satisfaction,
+ and inventory trends. By leveraging key performance
+ indicators, the dashboard will empower stakeholders
+ to make informed decisions, optimize operations,
+ and ultimately drive business growth and customer
+ satisfaction
+
