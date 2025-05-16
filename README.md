@@ -37,7 +37,7 @@ By analyzing metrics like total
  ## Dashboard Image
  https://github.com/aman0816/Blinkit-Dashboard/blob/main/Image_Blinkit.PNG
 
-              Conclusion
+ Conclusion
  This analysis aims to provide valuable insights into
  Blinkit's sales performance, customer satisfaction,
  and inventory trends. By leveraging key performance
