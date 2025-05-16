@@ -31,3 +31,6 @@ By analyzing metrics like total
  offering insights into product quality and customer
  experience.
 
+ ## Dataset
+ https://github.com/aman0816/Blinkit-Dashboard/blob/main/DataSet%20BlinkIT%20Grocery.xlsx
+
